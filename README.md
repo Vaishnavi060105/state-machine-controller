@@ -17,4 +17,5 @@ Implement a conversation state machine.
 ## Run
 
 ```bash
-python main.py
+python main.py# state-machine-controller
+Conversation State Machine Controller using Python
